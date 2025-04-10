@@ -5,9 +5,9 @@ Hi there! I'm Darius, a passionate developer constantly learning and growing in 
 ## About Me
 - **Name:** Darius
 - **Username:** Darius19860731
-- **Location:** [Your Location]
+- **Location:** [Stockholm]
 - **Interests:** Coding, Open Source, AI, Machine Learning, Web Development
-- **Hobbies:** Reading, Gaming, Traveling
+- **Hobbies:** Reading, Gaming(EFT), Traveling and no doubts LIFTING. 
 
 ## GitHub Stats
 ![Darius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darius19860731&show_icons=true&theme=radical)
@@ -22,9 +22,9 @@ Here are a few projects I'm currently working on:
 - [Project 3](https://github.com/Darius19860731/project3): Brief description.
 
 ## Get in Touch
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** [your-email@example.com](mailto:skardininku.darbai@gmail.com.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
 
 Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
 
